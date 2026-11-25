@@ -1,0 +1,15 @@
+WEEK 2: REAL-WORLD DATA ANALYSIS SUMMARY
+Dataset: UCI Wine Quality - red vinho verde samples
+Rows after duplicate removal: 1359
+Columns: 12
+Duplicate rows removed: 240
+Missing values before cleaning: 0
+Records with quality >= 7: 184
+Mean quality score: 5.623
+Mean alcohol: 10.432
+Strongest positive feature correlation with quality: alcohol (0.480)
+Strongest negative feature correlation with quality: volatile acidity (-0.395)
+
+Interpretation: Correlation describes association, not causation.
+Wine quality scores are sensory ratings; this analysis does not prove
+that changing one chemical measurement will cause a quality change.
